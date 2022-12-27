@@ -7,12 +7,12 @@ I am a link shortner telegram bot.
 
 >> `I can short any type of link`
 
-Made by @FayasNoushad"""
+Made by @victorlctt"""
 
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+            InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://t.me/movierequestbackup1')
         ]
     ]
 )
